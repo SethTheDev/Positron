@@ -11856,6 +11856,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 234.95) (xy 66.04 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bf8a2cc-08f2-4038-9802-710c70fef476")
+	)
+	(wire
+		(pts
 			(xy 110.49 140.97) (xy 110.49 143.51)
 		)
 		(stroke
@@ -13076,16 +13086,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 236.22) (xy 71.12 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b95d245-ce82-4b6a-8bc6-ffcffc6eb0c2")
-	)
-	(wire
-		(pts
 			(xy 273.05 138.43) (xy 281.94 138.43)
 		)
 		(stroke
@@ -13206,16 +13206,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 190.5) (xy 71.12 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6395c47f-fee6-4ab0-93ca-3f52c3eb8e34")
-	)
-	(wire
-		(pts
 			(xy 76.2 139.7) (xy 76.2 142.24)
 		)
 		(stroke
@@ -13303,6 +13293,16 @@
 			(type default)
 		)
 		(uuid "6678e600-288a-4156-8261-556351c418b9")
+	)
+	(wire
+		(pts
+			(xy 57.15 234.95) (xy 66.04 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66e96fb3-dd2f-4f81-ab18-1104f9ae6529")
 	)
 	(wire
 		(pts
@@ -14296,6 +14296,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 231.14) (xy 76.2 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "962cd3bf-e839-4199-985f-62db6652872f")
+	)
+	(wire
+		(pts
 			(xy 179.07 231.14) (xy 185.42 231.14)
 		)
 		(stroke
@@ -14483,6 +14493,16 @@
 			(type default)
 		)
 		(uuid "9fe20276-bd94-4a15-832e-a7fb7725d2a0")
+	)
+	(wire
+		(pts
+			(xy 76.2 185.42) (xy 76.2 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fe28e76-c89f-427b-8e8f-539df5feaf2f")
 	)
 	(wire
 		(pts
@@ -14716,16 +14736,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 229.87) (xy 76.2 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac67d0b1-7000-4922-821e-17acece6df96")
-	)
-	(wire
-		(pts
 			(xy 57.15 227.33) (xy 62.23 227.33)
 		)
 		(stroke
@@ -14916,6 +14926,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 189.23) (xy 66.04 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b53956d4-18d6-43eb-a85d-45a3ec98bb80")
+	)
+	(wire
+		(pts
 			(xy 82.55 106.68) (xy 82.55 127)
 		)
 		(stroke
@@ -14933,6 +14953,16 @@
 			(type default)
 		)
 		(uuid "b57acc8a-5e48-4230-ae5d-a91aeeac6d8c")
+	)
+	(wire
+		(pts
+			(xy 66.04 185.42) (xy 76.2 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6819939-b246-4303-88f4-a434ce81ab3d")
 	)
 	(wire
 		(pts
@@ -15616,16 +15646,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 184.15) (xy 76.2 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd025383-f81d-47c9-bfc8-d6fde69d96af")
-	)
-	(wire
-		(pts
 			(xy 69.85 189.23) (xy 76.2 189.23)
 		)
 		(stroke
@@ -15713,6 +15733,16 @@
 			(type default)
 		)
 		(uuid "e3e42f15-6d4c-4443-b9d0-b6872e79359f")
+	)
+	(wire
+		(pts
+			(xy 57.15 189.23) (xy 66.04 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e41bd1da-6313-4608-ab96-b39c0a31a8e6")
 	)
 	(wire
 		(pts
@@ -15893,6 +15923,16 @@
 			(type default)
 		)
 		(uuid "ede8849a-2df0-4510-834c-14af67f8c713")
+	)
+	(wire
+		(pts
+			(xy 66.04 231.14) (xy 76.2 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eee5e33a-8a32-42b4-923e-a676fa9f449f")
 	)
 	(wire
 		(pts
@@ -23983,88 +24023,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 71.12 193.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b7b045a-fe49-4f07-aaec-16a3e64d95ea")
-		(property "Reference" "R18"
-			(at 73.66 191.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "400R"
-			(at 73.66 194.3099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 71.12 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 71.12 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9b3210bb-fcab-414b-8b18-c6867cf760c4")
-		)
-		(pin "2"
-			(uuid "c7738114-9920-4014-b846-d41719ab00de")
-		)
-		(instances
-			(project "Positron"
-				(path "/4d609ffc-7c1c-4898-8af9-f7815c412743"
-					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VBUS")
 		(at 99.06 184.15 0)
 		(unit 1)
@@ -27650,88 +27608,6 @@
 			(project "Positron"
 				(path "/4d609ffc-7c1c-4898-8af9-f7815c412743"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 71.12 238.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3be29c8-e6a9-413e-bad7-70c0b6077d89")
-		(property "Reference" "R20"
-			(at 73.66 237.4899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "400R"
-			(at 73.66 240.0299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 71.12 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 71.12 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f5f4d21b-a2bd-40cd-8a8d-7fbd6a64505d")
-		)
-		(pin "2"
-			(uuid "797a5e79-4261-4fd2-adf8-e87507364d23")
-		)
-		(instances
-			(project "Positron"
-				(path "/4d609ffc-7c1c-4898-8af9-f7815c412743"
-					(reference "R20")
 					(unit 1)
 				)
 			)
