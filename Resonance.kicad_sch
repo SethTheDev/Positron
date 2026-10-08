@@ -8165,6 +8165,16 @@
 		)
 		(uuid "cc2e1209-58fe-4b8e-99fb-b56aa10da71f")
 	)
+	(text "Gain = -1"
+		(exclude_from_sim no)
+		(at 233.172 224.282 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f0a59bc1-1e1e-496b-bf3e-c6f9ea39d10d")
+	)
 	(text "3V3 LDO"
 		(exclude_from_sim no)
 		(at 156.21 41.91 0)
